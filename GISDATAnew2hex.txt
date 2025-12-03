@@ -1,8 +1,7 @@
                            ASCII Flatfile Ruler & Hex                          1
-                                  slc_hexdump
+                                    utlrulr    09:38 Wednesday, December 3, 2025
                              d:/txt/GISDATAnew2.txt
                            d:/txt/GISDATAnew2hex.txt
-                                               09:10 Wednesday, December 3, 2025
 
 
  --- Record Number ---  1   ---  Record Length ---- 80
